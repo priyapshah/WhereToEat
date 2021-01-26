@@ -28,6 +28,7 @@ var data = [
     { "label": "\&Pizza" },
     { "label": "4060 Chestnut Pizza" },
     { "label": "Just Salad" },
+    { "label": "Distrito" },
     { "label": "Franklin\'s Table" },
  //   { "label": "Pasta at Home" },
     { "label": "Ochatto" },
